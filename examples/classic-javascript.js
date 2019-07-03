@@ -33,7 +33,7 @@ function ClassicJavaScriptExample() {
 }
 
 ClassicJavaScriptExample.prototype.isLoggedIn = function() {
-  return window.MyLoginSystem.isLoggedIn ? this.loginData() : null;
+  return window.MyLoginSystem.isLoggedIn ? this._loginData() : null;
 };
 ClassicJavaScriptExample.prototype.requestLogin = function() {
   window.MyLoginSystem.showLoginModal();
