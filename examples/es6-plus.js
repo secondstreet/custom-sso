@@ -6,7 +6,7 @@ class ES6PlusExample {
   id = 2;
 
   isLoggedIn() {
-    return window.MyLoginSystem.isLoggedIn ? this.loginData : null;
+    return window.MyLoginSystem.isLoggedIn ? this._loginData : null;
   }
   requestLogin() {
     window.MyLoginSystem.showLoginModal();
