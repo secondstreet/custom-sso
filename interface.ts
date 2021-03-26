@@ -1,12 +1,31 @@
-export enum ThirdParty {
-  // Your ThirdParty ID will be provided by Second Street.
+/**
+ * After coordinating your Custom SSO integration with Second Street,
+ * we will suggest either an API-based workflow or a client-side workflow.
+ * Based on which workflow you are using, the LoginData you'll need to provide
+ * will change. Provide ApiBasedLoginData for the API-based workflow, or provide
+ * ClientSideLoginData for the client-side workflow.
+ */
+export type LoginData = ApiBasedLoginData | ClientSideLoginData;
+
+export interface ApiBasedLoginData {
+  thirdPartyId: ThirdParty;
+  uuid: uuid;
 }
 
-export type uuid = string | number;
-
-export interface LoginData {
-  uuid: uuid;
+export interface ClientSideLoginData {
   thirdPartyId: ThirdParty;
+  email: string;
+  firstName?: string;
+  lastName?: string;
+  city?: string;
+  address1?: string;
+  address2?: string;
+  stateProvince?: stateProvinceString;
+  postalCode?: string;
+  country?: countryString;
+  gender?: genderNumber;
+  phone?: string;
+  birthdate?: dateString;
 }
 
 export interface LogoutData {
@@ -76,3 +95,45 @@ export interface SecondStreetThirdPartyAuth {
    */
   addLogoutHandler(fn: (data: LogoutData) => void): void;
 }
+
+export enum ThirdParty {
+  // Your ThirdParty ID will be provided by Second Street.
+}
+
+export type uuid = string | number;
+
+/**
+ * State/Province must be one of the following strings, case-sensitive. If an invalid
+ * string is given, we will treat it like nothing was passed in for that data.
+ * 
+ * Example strings are provided below, but you can use the Name or Abbreviation
+ * of any State/Province documented in the docs/states-provinces.csv file.
+ */
+export type stateProvinceString = 'Missouri' | 'MO' | 'Alberta' | 'AB' | 'Durango' | 'DGO'; // ...
+
+/**
+ * Country must be one of the following strings, case-sensitive. If an invalid
+ * string is given, we will treat it like nothing was passed in for that data.
+ * 
+ * Example strings are provided below, but you can use the Name, TwoLetterCode,
+ * or ThreeLetterCode of any Country documented in the docs/countries.csv file.
+ */
+export type countryString = 'Canada' | 'CA' | 'CAN' | 'United States of America' | 'US' | 'USA'; // ...
+
+/**
+ * Gender must be one of the following numbers. If an invalid
+ * number is given, we will treat it like nothing was passed in for that data.
+ */
+export enum genderNumber {
+  Male = 1,
+  Female = 2,
+  PreferNotToSay = 3,
+  Other = 4,
+  NonBinary = 5
+}
+
+/** 
+ * Date must be provided as a string in ISO 8601 format, with no time or
+ * time zone component. Examples: '2021-01-01' or '1999-12-31'
+ */
+export type dateString = string;

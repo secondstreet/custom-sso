@@ -1,5 +1,8 @@
+import { SecondStreetThirdPartyAuth, LogoutData, ClientSideLoginData } from '../../interface';
+
 /**
  * Here is an example TypeScript implementation of the interface. If you
+ * This implementation assumes a client side workflow.
  * have any questions about the code below, feel free to reach out.
  */
 declare global {
@@ -12,14 +15,14 @@ declare global {
 class TypeScriptExample implements SecondStreetThirdPartyAuth {
   public readonly id = 2;
 
-  public isLoggedIn(): LoginData | null {
+  public isLoggedIn(): ClientSideLoginData | null {
     return window.MyLoginSystem.isLoggedIn ? this.loginData : null;
   }
   public requestLogin(): boolean {
     window.MyLoginSystem.showLoginModal();
     return window.MyLoginSystem.isLoginModalVisible;
   }
-  public addLoginHandler(fn: (data: LoginData) => void): void {
+  public addLoginHandler(fn: (data: ClientSideLoginData) => void): void {
     if (this.loginHandlers.includes(fn)) { return; }
     this.loginHandlers.push(fn);
   }
@@ -46,14 +49,25 @@ class TypeScriptExample implements SecondStreetThirdPartyAuth {
     window.MyLoginSystem.on('loginModalAborted', callLoginCanceledHandlers);
   }
 
-  private loginHandlers: Array<(LoginData) => void> = [];
+  private loginHandlers: Array<(ClientSideLoginData) => void> = [];
   private logoutHandlers: Array<(LogoutData) => void> = [];
   private loginCanceledHandlers: Array<(LogoutData) => void> = [];
 
-  private get loginData(): LoginData {
+  private get loginData(): ClientSideLoginData {
     return {
       thirdPartyId: this.id,
-      uuid: window.MyLoginSystem.currentUser.uuid
+      email: window.MyLoginSystem.currentUser.emailAddress,
+      firstName: window.MyLoginSystem.currentUser.fName,
+      lastName: window.MyLoginSystem.currentUser.lName,
+      city: window.MyLoginSystem.currentUser.address.city,
+      address1: window.MyLoginSystem.currentUser.address.addressFirstLine,
+      address2: window.MyLoginSystem.currentUser.address.addressSecondLine,
+      stateProvince: window.MyLoginSystem.currentUser.address.stateAbbreviation.toUpperCase(),
+      postalCode: window.MyLoginSystem.currentUser.address.zipCode,
+      country: window.MyLoginSystem.currentUser.address.countryTwoLetterAbbreviation.toUpperCase(),
+      gender: ({ M: 1, F: 2, P: 3, O: 4, N: 5 })[window.MyLoginSystem.currentUser.genderIdentity],
+      phone: window.MyLoginSystem.currentUser.phoneNumber,
+      birthdate: `${window.MyLoginSystem.currentUser.birthday.YYYY}${window.MyLoginSystem.currentUser.birthday.MM}${window.MyLoginSystem.currentUser.birthday.DD}`
     };
   }
 

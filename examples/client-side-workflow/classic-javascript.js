@@ -1,5 +1,6 @@
 /**
  * Here is an example Classic JavaScript implementation of the interface.
+ * This implementation assumes a client side workflow.
  * If you have any questions about the code below, feel free to reach out.
  */
 function ClassicJavaScriptExample() {
@@ -55,7 +56,18 @@ ClassicJavaScriptExample.prototype.addLogoutHandler = function(fn) {
 ClassicJavaScriptExample.prototype._loginData = function() {
   return {
     thirdPartyId: this.id,
-    uuid: window.MyLoginSystem.currentUser.uuid
+    email: window.MyLoginSystem.currentUser.emailAddress,
+    firstName: window.MyLoginSystem.currentUser.fName,
+    lastName: window.MyLoginSystem.currentUser.lName,
+    city: window.MyLoginSystem.currentUser.address.city,
+    address1: window.MyLoginSystem.currentUser.address.addressFirstLine,
+    address2: window.MyLoginSystem.currentUser.address.addressSecondLine,
+    stateProvince: window.MyLoginSystem.currentUser.address.stateAbbreviation.toUpperCase(),
+    postalCode: window.MyLoginSystem.currentUser.address.zipCode,
+    country: window.MyLoginSystem.currentUser.address.countryTwoLetterAbbreviation.toUpperCase(),
+    gender: ({ M: 1, F: 2, P: 3, O: 4, N: 5 })[window.MyLoginSystem.currentUser.genderIdentity],
+    phone: window.MyLoginSystem.currentUser.phoneNumber,
+    birthdate: '' + window.MyLoginSystem.currentUser.birthday.YYYY + window.MyLoginSystem.currentUser.birthday.MM + window.MyLoginSystem.currentUser.birthday.DD
   };
 };
 ClassicJavaScriptExample.prototype._logoutData = function() {
