@@ -1,19 +1,21 @@
-import { SecondStreetThirdPartyAuth, LogoutData, ClientSideLoginData } from '../../interface';
+import { SecondStreetThirdPartyAuth, LogoutData, LoginStrategy } from '../../interface';
+import { ClientSideLoginData } from '../../docs/client-side-interface';
 
 /**
  * Here is an example TypeScript implementation of the interface. If you
- * This implementation assumes a client side workflow.
  * have any questions about the code below, feel free to reach out.
+ * This implementation assumes a client side workflow.
  */
 declare global {
   interface Window {
     MyLoginSystem: any;
-    SecondStreetThirdPartyAuth?: SecondStreetThirdPartyAuth;
+    SecondStreetThirdPartyAuth?: SecondStreetThirdPartyAuth<LoginStrategy.MyLoginUI>;
   }
 }
 
-class TypeScriptExample implements SecondStreetThirdPartyAuth {
+class TypeScriptExample implements SecondStreetThirdPartyAuth<LoginStrategy.MyLoginUI> {
   public readonly id = 2;
+  public readonly loginStrategy = 1;
 
   public isLoggedIn(): ClientSideLoginData | null {
     return window.MyLoginSystem.isLoggedIn ? this.loginData : null;

@@ -1,10 +1,11 @@
 /**
  * Here is an example ES6+ implementation of the interface. If you
- * This implementation assumes an API-based workflow.
  * have any questions about the code below, feel free to reach out.
+ * This implementation assumes an API-based workflow.
  */
 class ES6PlusExample {
   id = 2;
+  loginStrategy = 1;
 
   isLoggedIn() {
     return window.MyLoginSystem.isLoggedIn ? this._loginData : null;

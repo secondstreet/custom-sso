@@ -1,19 +1,21 @@
-import { SecondStreetThirdPartyAuth, LogoutData, ApiBasedLoginData } from '../../interface';
+import { SecondStreetThirdPartyAuth, LogoutData, LoginStrategy } from '../../interface';
+import { ApiBasedLoginData } from '../../docs/api-based-interface';
 
 /**
  * Here is an example TypeScript implementation of the interface. If you
- * This implementation assumes an API-based workflow.
  * have any questions about the code below, feel free to reach out.
+ * This implementation assumes an API-based workflow.
  */
 declare global {
   interface Window {
     MyLoginSystem: any;
-    SecondStreetThirdPartyAuth?: SecondStreetThirdPartyAuth;
+    SecondStreetThirdPartyAuth?: SecondStreetThirdPartyAuth<LoginStrategy.MyLoginUI>;
   }
 }
 
-class TypeScriptExample implements SecondStreetThirdPartyAuth {
+class TypeScriptExample implements SecondStreetThirdPartyAuth<LoginStrategy.MyLoginUI> {
   public readonly id = 2;
+  public readonly loginStrategy = 1;
 
   public isLoggedIn(): ApiBasedLoginData | null {
     return window.MyLoginSystem.isLoggedIn ? this.loginData : null;
