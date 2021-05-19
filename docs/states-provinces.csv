@@ -1,0 +1,1986 @@
+﻿Name,Abbreviation
+Badakhshan,BAD
+Badghis,BAH
+Baghlan,BAG
+Balkh,BAL
+Bamian,BAM
+Farah,FAR
+Faryab,FAY
+Ghazni,GHA
+Ghowr,GHO
+Helmand,HEL
+Herat,HER
+Jowzjan,JOW
+Kabol,KAB
+Kandahar,KAN
+Kapisa,KAP
+Khowst,KHW
+Konar,KNR
+Kondoz,KON
+Laghman,LAG
+Lowgar,LOW
+Nangarhar,NAN
+Nimruz,NIM
+Nurestan,NUR
+Oruzgan,ORU
+Paktia,PKT
+Paktika,PAK
+Parvan,PAR
+Samangan,SAM
+Sar-e Pol,SAR
+Takhar,TAK
+Unknown,UNK
+Vardak,VAR
+Zabol,ZAB
+Beratit,BER
+Dibres,DIB
+Durresit,DUR
+Elbasanit,ELB
+Fierit,FIE
+Gjirokastres,GJI
+Korces,KOR
+Kukesit,KUK
+Lezhes,LEZ
+Shkodres,SHK
+Tiranes,TIR
+Vlores,VLO
+Adrar,ADR
+Ain Defla,AID
+Ain Temouchent,AIT
+Alger,ALG
+Annaba,ANN
+Batna,BAT
+Bechar,BEC
+Bejaia,BEJ
+Biskra,BIS
+Blida,BLI
+Bordj Bou Arreridj,BOR
+Bouira,BOU
+Chlef,CHL
+Constantine,CON
+Djelfa,DJE
+El Bayadh,ELB
+El Oued,ELO
+Ghardaia,GHA
+Guelma,GUE
+Illizi,ILL
+Jijel,JIJ
+Khenchela,KHE
+Laghouat,LAG
+M'Sila,MSI
+Mascara,MAS
+Medea,MED
+Mila,MIL
+Mostaganem,MOS
+Naama,NAA
+Oran,ORA
+Ouargla,OUA
+Oum el Bouaghi,OUM
+Relizane,REL
+Saida,SAI
+Setif,SET
+Sidi Bel Abbes,SID
+Skikda,SKI
+Souk Ahras,SOU
+Tamanghasset,TAM
+Tebessa,TEB
+Tiaret,TIA
+Tindouf,TIN
+Tipaza,TIP
+Tissemsilt,TIS
+Tizi Ouzou,TIZ
+Tlemcen,TLE
+Andorra,AND
+Benguela,BEN
+Huambo,HUA
+Luanda,LUA
+Lunda Sul,LUS
+Anguilla,ANG
+Antarctica,ARC
+Antigua & Barbuda,ANT
+Buenos Aires,BA
+Catamarca,CAT
+Chaco,CHA
+Chubut,CHU
+Cordoba,CDB
+Corrientes,COR
+Distrito Federal,DF
+Entre Rios,ERI
+Formosa,FOR
+Jujuy,JUJ
+La Pampa,LPA
+La Rioja,LRI
+Mendoza,MEN
+Misiones,MIS
+Neuquen,NEU
+Rio Negro,RNE
+Salta,SAL
+San Juan,SJU
+San Luis,SLU
+Santa Cruz,SCR
+Santa Fe,SFE
+Santiago del Estero,SDE
+Tierra del Fuego,TDF
+Tucuman,TUC
+Aragatsotni,ARA
+Ararati,ARR
+Armaviri,ARM
+Geghark'unik'i,GEG
+K'aghak' Yerevan,KAY
+Kalininskiy Rayon,KAL
+Kotayk'i,KOT
+Lorru,KAL
+Shiraki,SHI
+Syunik'i,SYU
+Tavushi,TAV
+Vayots' Dzori,VAY
+Aruba,ARU
+Australian Capital Territory,ACT
+New South Wales,NSW
+Northern Territory,NTY
+Queensland,QLD
+South Australia,SAU
+Tasmania,TAS
+Victoria,VIC
+Western Australia,WAU
+Burgenland,BUR
+Karnten,KAR
+Niederosterreich,NIE
+Oberosterreich,OBE
+Salzburg,SAL
+Steiermark,STE
+Tirol,TIR
+Vorarlberg,VOR
+Wien,WIE
+Abseron,ABS
+Agcabadi,AGC
+Agdam,AGM
+Agdas,AGD
+Agstafa,AGS
+Agsu,AGU
+Ali Bayramli Sahari,ALI
+Astara,AST
+Baki Sahari,BAK
+Balakan,BAL
+Barda,BAR
+Beylaqan,BEY
+Bilasuvar,BIL
+Cabrayil,CAB
+Calilabad,CAL
+Daskasan,DAS
+Davaci,DAV
+Fuzuli,FUZ
+Gadabay,GAD
+Ganca Sahari,GAN
+Goranboy,GOR
+Goycay,GOY
+Haciqabul,HAC
+Imisli,IMI
+Ismayilli,ISM
+Kalbacar,KAL
+Kurdamir,KUR
+Lacin,LAC
+Lankaran,LAN
+Lankaran Sahari,LAs
+Lerik,LER
+Masalli,MAS
+Mingacevir Sahari,MIN
+Naftalan Sahari,NAF
+Naxcivan Muxtar Respublikasi,NAX
+Neftcala,NEF
+Oguz,OGU
+Qabala,QAB
+Qax,QAX
+Qazax,QAZ
+Qobustan,QOB
+Quba,QUB
+Qubadli,QUL
+Qusar,QUS
+Saatli,SAA
+Sabirabad,SAB
+Saki,SAK
+Saki Sahari,SAS
+Salyan,SAL
+Samaxi,SAM
+Samkir,SAR
+Samux,SAX
+Siyazan,SIY
+Susa,SUR
+Tartar,TAR
+Tovuz,TOV
+Ucar,UCA
+Xacmaz,XAC
+Xankandi Sahari,XAN
+Xanlar,XAL
+Xizi,XIZ
+Xocali,XOC
+Xocavand,XOV
+Yardimli,YAR
+Yevlax,YEV
+Yevlax Sahari,YES
+Zangilan,ZAN
+Zaqatala,ZAQ
+Zardab,ZAR
+Abaco,ABA
+Andros,AND
+Bimini Islands,BIM
+Cat Island,CAT
+Eleuthera,ELE
+Exuma & Cays,EXU
+Grand Bahama,GBA
+Harbour Island & Spanish Wells,HIS
+Inagua,INA
+Long Island,LIS
+Mayaguana,MAY
+New Providence,NPR
+Ragged Islands,RAG
+Al Hadd,HAD
+Al Manamah,MAN
+Al Mintaqah al Gharbiyah,GHA
+Al Mintaqah al Wusta,WUS
+Al Mintaqah ash Shamaliyah,SHA
+Al Muharraq,MUH
+Ar Rifa` wa al Mintaqah al Janubiyah,RIF
+Jidd Hafs,JID
+Madinat Hamad,MAH
+Madinat `Isa,MAI
+Mintaqat Juzur Hawar,JUZ
+Sitrah,SIT
+Chittagong,CHI
+Dhaka,DHA
+Khulna,KHU
+Rajshahi,RAJ
+Christ Church,CHR
+Saint Andrew,AND
+Saint George,GEO
+Saint James,JAM
+Saint John,JOH
+Saint Joseph,JOS
+Saint Lucy,LUC
+Saint Michael,MIC
+Saint Peter,PET
+Saint Philip,PHI
+Saint Thomas,THO
+Brestskaya,BRE
+Homyel'skaya,HOM
+Hrodzyenskaya,HRO
+Mahilyowskaya,MAH
+Minskaya,MIN
+Unknown,UNK
+Vitsyebskaya,VIT
+Antwerpen,ANT
+Hainaut,HAI
+Liege,LIE
+Limburg,LIM
+Luxembourg,LUX
+Namur,NAM
+Oost-Vlaanderen,OOV
+Unknown,UNK
+West-Vlaanderen,WEV
+Belize,BEL
+Cayo,CAY
+Corozal,COR
+Orange Walk,ORA
+Stann Creek,STA
+Toledo,TOL
+Unknown,UNK
+Devonshire,DEV
+Hamilton,HAM
+Paget,PAG
+Pembroke,PEM
+Saint Georges,SGS
+Sandys,SAN
+Smiths,SMI
+Southampton,SOU
+Warwick,WAR
+Bhutan,BHU
+Beni,BEN
+Chuquisaca,CHU
+Cochabamba,COC
+La Paz,LAP
+Oruro,ORU
+Pando,PAN
+Potosi,POT
+Santa Cruz,SAN
+Tarija,TAR
+Bosnia and Herzegovina,BOS
+Republika Srpska,SRP
+Unknown,UNK
+Gaborone,GAB
+Unknown,UNK
+Acre,ACR
+Alagoas,ALA
+Amapa,AMP
+Amazonas,AMZ
+Bahia,BAH
+Ceara,CEA
+Distrito Federal,DF
+Espirito Santo,ESA
+Goias,GOI
+Maranhao,MAR
+Mato Grosso,MGR
+Mato Grosso do Sul,MGS
+Minas Gerais,MGE
+Para,PAR
+Paraiba,PRB
+Parana,PRN
+Pernambuco,PER
+Piaui,PIA
+Rio de Janeiro,RDJ
+Rio Grande do Norte,RGN
+Rio Grande do Sul,RGS
+Rondonia,RON
+Roraima,ROR
+Santa Catarina,SCA
+Sao Paulo,SPA
+Sergipe,SER
+Tocantins,TOC
+British Virgin Islands,BVI
+Brunei,BRU
+Blagoevgrad,BLA
+Burgas,BUR
+Dobrich,DOB
+Gabrovo,GAB
+Khaskovo,KHA
+Kurdzhali,KUR
+Kyustendil,KYU
+Lovech,LOV
+Montana,MON
+Pazardzhik,PAZ
+Pernik,PER
+Pleven,PLE
+Plovdiv,PLO
+Razgrad,RAZ
+Ruse,RUS
+Shumen,SHU
+Silistra,SIL
+Sliven,SLI
+Smolyan,SMO
+Sofiya,SOF
+Sofiya-Grad,SFG
+Stara Zagora,STA
+Turgovishte,TUR
+Varna,VAR
+Veliko Turnovo,VEL
+Vidin,VID
+Vratsa,VRA
+Yambol,YAM
+Burkina Faso,BUF
+Burundi,BUR
+Batdambang,BAT
+Kampong Cham,CHA
+Kampong Chhnang,CHH
+Kampong Spoe,SPO
+Kampong Thum,THU
+Kampot,KAM
+Kandal,KAN
+Kaoh Kong,KAO
+Kracheh,KRA
+Mondol Kiri,MON
+Pouthisat,POU
+Preah Vihear,PRE
+Prey Veng,PRV
+Rotanah Kiri,ROT
+Siem Reab,SIE
+Stoeng Treng,STO
+Svay Rieng,SVA
+Takev,TAK
+Unknown,UNK
+Cameroon,CAM
+Alberta,AB
+British Columbia,BC
+Manitoba,MB
+New Brunswick,NB
+Newfoundland and Labrador,NL
+Northwest Territories,NT
+Nova Scotia,NS
+Nunavut,NU
+Ontario,ON
+Prince Edward Island,PE
+Quebec,QC
+Saskatchewan,SK
+Yukon,YT
+Cape Verde,CPV
+Cayman Islands,CYN
+Central African Republic,CAR
+Batha,BAT
+Biltine,BIL
+Borkou-Ennedi-Tibesti,BET
+Chari-Baguirmi,CHB
+Guera,GUE
+Kanem,KAN
+Lac,LAC
+Logone Occidental,LOC
+Logone Oriental,LOR
+Mayo-Kebbi,MAK
+Moyen-Chari,MOC
+Ouaddai,OUA
+Salamat,SAL
+Tandjile,TAN
+Aisen del General Carlos Ibanez del Campo,AIS
+Antofagasta,ANT
+Araucania,ARA
+Atacama,ATA
+Bio-Bio,BIO
+Coquimbo,COQ
+Libertador G.B. O'Higgins,LIB
+Los Lagos,LAG
+Magallanes y de la Antartica Chilena,MAG
+Maule,MAU
+Region Metropolitana,MET
+Tarapaca,TAR
+Valparaiso,VAL
+Anhui,ANH
+Beijing Shi,BEJ
+Chongqing Shi,CHS
+Fujian,FUJ
+Gansu,GAN
+Guangdong,GUA
+Guangxi Zhuangzu,GUZ
+Guizhou,GUI
+Hainan,HAI
+Hebei,HEB
+Heilongjiang,HEI
+Henan,HEN
+Hubei,HUB
+Hunan,HUN
+Inner Mongolia,IMO
+Jiangsu,JIU
+Jiangxi,JII
+Jilin,JIN
+Liaoning,LIA
+Ningxia Huizu,NIH
+Qinghai,QIN
+Shaanxi,SHX
+Shandong,SHG
+Shanxi,SHI
+Sichuan,SIC
+Tibet,TIB
+Unknown,UNK
+Xinjiang Uygur,XIU
+Yunnan,YUN
+Zhejiang,ZHE
+Christmas Island,CHI
+Antioquia,ANT
+Atlantico,ALT
+Bogota,BOG
+Bolivar,BOL
+Cauca,CAU
+Cundinamarca,CUN
+Magdalena,MAG
+Meta,MET
+Santander,SAN
+Valle del Cauca,VAL
+Comoros,COM
+Bouenza,BOU
+Brazzaville,BRA
+Cuvette,CUV
+Kouilou,KOU
+Lekoumou,LEK
+Likouala,LIK
+Niari,NIA
+Plateaux,PLA
+Pool,POO
+Sangha,SAN
+Cook Islands,CKI
+Alajuela,ALA
+Cartago,CAR
+Guanacaste,GUA
+Heredia,HER
+Limon,LIM
+Puntarenas,PUN
+San Jose,SJO
+Cote D'Ivoire,CDI
+Bjelovarsko-Bilogorska,BJE
+Brodsko-Posavska,BRO
+Dubrovacko-Neretvanska,DUB
+Grad Zagreb,GRA
+Istarska,IST
+Karlovacka,KAR
+Koprivnicko-Krizevacka,KOP
+Krapinsko-Zagorska,KRA
+Licko-Senjska,LIC
+Medimurska,MED
+Osjecko-Baranjska,OSJ
+Pozesko-Slavonska,POZ
+Primorsko-Goranska,PRI
+Sibensko-Kninska,SIB
+Sisacko-Moslavacka,SIS
+Splitsko-Dalmatinska,SPL
+Varazdinska,VAR
+Viroviticko-Podravska,VIR
+Vukovarsko-Srijemska,VUK
+Zagrebacka,ZAG
+Camaguey,CAM
+Ciego de Avila,CDA
+Cienfuegos,CIE
+Ciudad de la Habana,CLH
+Granma,GRA
+Guantanamo,GUA
+Holguin,HOL
+Isla de la Juventud,JUV
+La Habana,HAB
+Las Tunas,TUN
+Matanzas,MAT
+Pinar del Rio,PIN
+Sancti Spiritus,SSP
+Santiago de Cuba,SAN
+Villa Clara,VIL
+Cyprus,CYP
+Czech Republic,CZE
+Bandundu,BAN
+Bas-Congo,BAS
+Equateur,EQU
+Kasai-Occidental,KOC
+Katanga,KAT
+Kinshasa,KIN
+Kivu,KIV
+Maniema,MAN
+Nord-Kivu,NKI
+Orientale,ORI
+Sud-Kivu,SKI
+Arhus Amt,ARH
+Bornholms Amt,BOR
+Frederiksberg Kommune,FK
+Frederiksborg Amt,FRE
+Fyns Amt,FYN
+Kobenhavns Amt,KOB
+Kobenhavns Kommune,KK
+Nordjyllands Amt,NJL
+Ribe Amt,RIB
+Ringkobing Amt,RIN
+Roskilde Amt,ROS
+Sonderjyllands Amt,SJL
+Storstroms Amt,STO
+Vejle Amt,VEJ
+Vestsjaellands Amt,VSL
+Viborg Amt,VIB
+Djibouti,DJI
+Dominica,DOM
+Azua,AZU
+Baoruco,BAH
+Barahona,BAR
+Dajabon,DAJ
+Distrito Nacional,DN
+Duarte,DUA
+El Seibo,ESE
+Elias Pina,EPA
+Espaillat,ESP
+Hato Mayor,HMA
+Independencia,IND
+La Altagracia,LAL
+La Romana,LRO
+La Vega,LVE
+Maria Trinidad Sanchez,MTS
+Monsenor Nouel,MSN
+Monte Cristi,MCR
+Monte Plata,MPL
+Pedernales,PED
+Peravia,PER
+Puerto Plata,PPL
+Salcedo,SAL
+Samana,SAM
+San Cristobal,SCR
+San Juan,SJU
+San Pedro de Macoris,SPM
+Sanchez Ramirez,SRA
+Santiago,SAN
+Santiago Rodriguez,SRO
+Valverde,VAL
+East Timor,ETM
+Azuay,AZU
+Boliar,BOL
+Canar,CAN
+Carchi,CAR
+Chimborazo,CHI
+Cotopaxi,COT
+El Oro,EOR
+Esmeraldas,ESM
+Galapagos,GAL
+Guayas,GUA
+Imbabura,IMB
+Loja,LOJ
+Los Rios,LRI
+Manabi,MAN
+Morona-Santiago,MSA
+Napo,NAP
+Orellana,ORE
+Pastaza,PAS
+Pichincha,PIC
+Sucumbios,SUC
+Zamora-Chinchipe,ZCH
+Ad-Daqahiyah,DAQ
+Al-Bahr al-Ahmar,BAH
+Al-Buhayrah,BUH
+Al-Fayyum,FAY
+Al-Gharbiyah,GHA
+Al-Iskandariyah,ISK
+Al-Isma'iliyah,ISM
+Al-Jizah,JIZ
+Al-Minufiyah,MNF
+Al-Minya,MIN
+Al-Qahirah,QAH
+Al-Qalyubyah,QAL
+Al-Wadi al-Jadid,WJA
+As-Suways,SUW
+Ash-Sharqiyah,SHA
+Aswan,ASW
+Asyut,ASY
+Bani Suwayf,BSU
+Bur Sa'id,BSA
+Dumyat,DUM
+Kafr ash-Shaykh,KSH
+Marsa Matruh,MMA
+Qina,QIN
+Sawhaj,SAW
+Sina' al-Janubiyah,SJA
+Sina' ash-Shamaliyah,SSH
+Ahuachapan,AHU
+Cabanas,CAB
+Chalatenango,CHA
+Cuscatlan,CUS
+La Libertad,LLI
+La Paz,LPA
+La Union,LUN
+Morazan,MOR
+San Miguel,SMI
+San Salvador,SSA
+San Vicente,SVI
+Santa Ana,SAN
+Sonsonate,SON
+Usulutan,USU
+Equatorial Guinea,EQG
+Eritrea,ERI
+Estonia,EST
+Ethiopia,ETH
+Falkland Islands,FAL
+Faroe Islands,FAR
+Fiji,FIJ
+Alands Lan,ALA
+Lapplands Lan,LPA
+Ostra Finlands Lan,OST
+Sodra Finlands Lan,SOD
+Uleaborgs Lan,ULE
+Vastra Finlands Lan,VAS
+Alsace,ALS
+Aquitaine,AQU
+Auvergne,AUV
+Basse-Normandie,BAS
+Bourgogne,BOU
+Bretagne,BRE
+Centre,CEN
+Champagne-Ardenne,CHA
+Corse,COR
+Franche-Comte,FRA
+Haute-Normandie,HAU
+Ile-de-France,ILE
+Languedoc-Roussillon,LAN
+Limousin,LIM
+Lorraine,LOR
+Midi-Pyrenees,MID
+Nord-Pas-de-Calais,NOR
+Pays-de-la Loire,PAY
+Picardie,PIC
+Poitou-Charentes,POI
+Provence-Alpes-Cote d'Azur,PRO
+Rhooe-Alpes,RHO
+Unknown,UNK
+French Guiana,FGU
+French Polynesia,FPY
+Gabon,GAB
+Gambia,GAM
+Georgia,GEO
+Baden-Wurttemberg,BW
+Bayern,BY
+Berlin,BE
+Brandenburg,BB
+Bremen,HB
+Hamburg,HH
+Hessen,HE
+Mecklenburg-Vorpommern,MV
+Niedersachsen,NI
+Nordrhein-Westfalen,NW
+Rheinland-Pfalz,RP
+Saarland,SL
+Sachsen,SN
+Sachsen-Anhalt,ST
+Schleswig-Holstein,SH
+Thuringen,TH
+Ghana,GHA
+Gibraltar,GIB
+Aegean Islands,AIY
+Attiki,ATT
+Central Greece & Evvoia,SEE
+Crete,KRI
+Epirus,IPI
+Ionia Islands,ION
+Macedonia,MAK
+Peloponnesus,PEL
+Thessalia,THE
+Thrace,THR
+Greenland,GL
+Grenada,GJ
+Guadeloupe,GUA
+Alta Verapaz,AVE
+Baja Verapaz,BVE
+Chimaltenango,CMT
+Chiquimula,CQM
+El Progreso,EPR
+Escuintla,ESC
+Guatemala,GUA
+Huehuetenango,HUE
+Izabal,IZA
+Jalapa,JAL
+Jutiapa,JUT
+Peten,PET
+Quetzaltenango,QUE
+Quiche,QUI
+Retalhuleu,RET
+Sacatepequez,SAC
+San Marcos,SMA
+Santa Rosa,SRO
+Solola,SOL
+Suchitepequez,SUC
+Totonicapan,TOT
+Zacapa,ZAC
+Guernsey,GUR
+Guinea,GUI
+Guinea-Bissau,GUB
+Guyana,GUY
+Haiti,HAI
+Atlantida,ATL
+Choluteca,CHO
+Colon,COL
+Comayagua,COM
+Copan,COP
+El Paraiso,EPA
+Francisco Morazan,FMO
+Gracias a Dios,GAD
+Intibuca,INT
+Islas de la Bahia,IBA
+La Paz,LPA
+Lempira,LEM
+Ocotepeque,OCO
+Olancho,OLA
+Santa Barbara,SBA
+Valle,VAL
+Yoro,YOR
+Bacs-Kiskun Megye,BAC
+Baranya Megye,BAR
+Bekes Megye,BEK
+Borsod-Abauj-Zemplen Megye,BOR
+Budapest Fovaros,BUD
+Csongrad Megye,CSO
+Debrecen Megyei Varos,DEB
+Fejer Megye,FEJ
+Gyor Megyei Varos,GYO
+Gyor-Moson-Sopron Megye,GYO
+Hajdu-Bihar Megye,HAJ
+Heves Megye,HEV
+Jasz-Nagykun-Szolnok Megye,JAS
+Komarom-Esztergom Megye,KOM
+Miskolc Megyei Varos,MIS
+Nograd Megye,NOG
+Pecs Megyei Varos,PEC
+Pest Megye,PES
+Somogy Megye,SOM
+Szabolcs-Szatmar-Bereg Megye,SZA
+Szeged Megyei Varos,SZE
+Tolna Megye,TOL
+Vas Megye,VAS
+Veszprem Megye,VES
+Zala Megye,ZAL
+Arnessysla,ARN
+Austur-Bardhastrandarsysla,ABA
+Austur-Hunavatnssysla,AHU
+Austur-Skaftafellssysla,ASK
+Borgarfjardharsysla,BOR
+Dalasysla,DAL
+Eyjafjardharsysla,EYJ
+Gullbringusysla,GUL
+Kjosarsysla,KJY
+Myrasysla,MYR
+Nordhur-Isafjardharsysla,NIS
+Nordhur-Mulasysla,NMU
+Nordhur-Thingeyjarsysla,NTY
+Rangarvallasysla,RNG
+Skagafjardharsysla,SKA
+Snaefellsnessysla- og Hnappadalssysla,SHN
+Strandasysla,STR
+Sudhur-Mulasysla,SMU
+Sudhur-Thingeijjar,STI
+Vestur-Bardhastrandarsysla,VBA
+Vestur-Hunavatnssysla,VHU
+Vestur-Isafjardharsysla,VIS
+Vestur-Skaftafellssysla,VSK
+Andaman & Nicobar Islands,ANI
+Andhra Pradesh,AND
+Arunachal Pradesh,ARU
+Assam,ASS
+Bihar,BIH
+Chandigarh,CHA
+Dadra & Nagar Haveli,DAD
+Delhi,DEL
+Goa,GOA
+Gujarat,GUJ
+Haryana,HAR
+Himachal Pradesh,HIM
+Jammu & Kashmir,JAM
+Jharkhand,JHA
+Karnataka,KAR
+Kerala,KER
+Lakshadweep,LAK
+Madhya Pradesh,MAD
+Maharashtra,MAH
+Manipur,MAN
+Meghalaya,MEG
+Mizoram,MIZ
+Nagaland,NAG
+Orissa,ORI
+Pondicherry,PON
+Punjab,PUN
+Rajasthan,RAJ
+Sikkim,SIK
+Tamil Nadu,TAM
+Tripura,TRI
+Uttar Pradesh,UTT
+Uttaranchal,UAR
+West Bengal,WES
+Aceh,ACE
+Bali,BAL
+Bengkulu,BEN
+Jambi,JAM
+Jawa Barat,JBA
+Jawa Tengah,JTE
+Jawa Timur,JTI
+Kalimantan Barat,BAR
+Kalimantan Selatan,SEL
+Kalimantan Tengah,TEN
+Kalimantan Timur,TIM
+Lampung,LAM
+Maluku,MAL
+Nusa Tenggara Barat,NTB
+Nusa Tenggara Timur,NTT
+Papua,PAP
+Riau,RIA
+Sulawesi Selatan,SSE
+Sulawesi Tengah,STE
+Sulawesi Tenggara,STG
+Sulawesi Utara,SLU
+Sumatera Barat,SBA
+Sumatera Utara,SUT
+Unknown,UNK
+Yogyakarta,YOG
+a Baluchestan,BAL
+ahall va Bakhtiari,BAK
+an-e Gharbi,GHA
+an-e Sharqi,SHA
+eh va Buyer Ahmad,KOH
+n,KOR
+n,KHU
+n,HOR
+Anbar,ANB
+Arbil,ARB
+Babil,BAB
+Baghdad,BAG
+Basrah,BAS
+Dahuk,DAH
+Dhi Qar,DHI
+Diyala,DIY
+Karbala',KAR
+Maysan,MAY
+Muthanna,MUT
+Najaf,NAJ
+Ninawa,NIN
+Qadisiyah,QAD
+Salah ad Din,SAL
+Sulaymaniyah,SUL
+Ta'mim,TAM
+Wasit,WAS
+Carlow,CAR
+Cavan,CAV
+Clare,CLA
+Cork,COR
+Donegal,DON
+Dublin,DUB
+Galway,GAL
+Kerry,KRY
+Kildare,KID
+Kilkenny,KIK
+Laois,LAO
+Leitrim,LEI
+Limerick,LIM
+Longford,LON
+Louth,LOU
+Mayo,MAY
+Meath,MEA
+Monaghan,MON
+Offaly,OFF
+Roscommon,ROS
+Sligo,SLI
+Tipperary,TIP
+Unknown,UNK
+Waterford,WAT
+Westmeath,WES
+Wexford,WEX
+Wicklow,WIC
+Isle of Man,IOM
+Central District,CEN
+Haifa District,HAF
+Jerusalem District,JER
+Northern District,HAF
+Southern District,MEH
+Tel Aviv District,TEL
+Abruzzi,ABR
+Basilicata,BAS
+Calabria,CAL
+Campania,CAM
+Emilia-Romagna,EMI
+Friuli-Venezia Giulia,FRI
+Lazio,LAZ
+Liguria,LIG
+Lombardia,LOM
+Marche,MAR
+Molise,MOL
+Piemonte,PIE
+Puglia,PUG
+Sardegna,SAR
+Sicilia,SIC
+Toscana,TOS
+Trentino-Alto Adige,TRE
+Umbria,UMB
+Valle d'Aosta,VDA
+Veneto,VEN
+Clarendon,CLA
+Hanover,HAN
+Kingston,KIN
+Manchester,MAN
+Portland,POR
+Saint Andrews,AND
+Saint Ann,ANN
+Saint Catherine,CAT
+Saint Elizabeth,ELI
+Saint James,JAM
+Saint Mary,MAR
+Saint Thomas,THO
+Trelawny,TRE
+Westmoreland,WML
+Aichi,AIC
+Akita,AKI
+Aomori,AOM
+Chiba,CHI
+Ehime,EHI
+Fukui,FUI
+Fukuoka,FUA
+Fukushima,FUM
+Gifu,GIF
+Gumma,GUM
+Hiroshima,HIR
+Hokkaido,HOK
+Hyogo,HYO
+Ibaraki,IBA
+Ishikawa,ISH
+Iwate,IWA
+Kagawa,KAG
+Kagoshima,KAM
+Kanagawa,KAN
+Kochi,KOC
+Kumamoto,KUM
+Kyoto,KYO
+Mie,MIE
+Miyagi,MIG
+Miyazaki,MIZ
+Nagano,NAG
+Nagasaki,NAK
+Nara,NAR
+Niigata,NII
+Oita,OIT
+Okayama,OKA
+Okinawa,OKI
+Osaka,OSA
+Saga,SAG
+Saitama,SAI
+Shiga,SHG
+Shimane,SHM
+Shizuoka,SHZ
+Tochigi,TOC
+Tokushima,TOK
+Tokyo,TOY
+Tottori,TOT
+Toyama,TYM
+Wakayama,WAK
+Yamagata,YMT
+Yamaguchi,YMG
+Yamanashi,YMN
+Jersey,JER
+Jordan,JOR
+Kazakhstan,KAZ
+Central,CEN
+Coast,CST
+Eastern,EST
+Nairobi,NAI
+North Eastern,NEA
+Nyanza,NYA
+Rift Valley,RVY
+Western,WST
+Kiribati,KIR
+Al-Ahmadi,AHM
+Al-Farwaniyah,FAR
+Al-Kuwayt,KUW
+Bubiyan & Warbah,BUB
+Hawalli,HAW
+Kyrgyzstan,KYR
+Laos,LAO
+Latvia,LAT
+Lebanon,LEB
+Lesotho,LES
+Liberia,LIB
+Libya,LIB
+Liechtenstein,LIE
+Lithuania,LIT
+Luxembourg,LUX
+Macau,MAC
+Macedonia,MAC
+Antananarivo,ANT
+Antsiranana,ASI
+Fianarantsoa,FIA
+Mahajanga,MAH
+Toamasina,TOA
+Toliary,TOL
+Malawi,MAL
+Johor,JOH
+Kedah,KED
+Kelantan,KEL
+Melaka,MEL
+Pahang,PAH
+Perak,PER
+Perlis,PES
+Pulau Pinang,PIN
+Sabah,SAB
+Sarawak,SAR
+Selangor,SEL
+Sembilan,SEM
+Terengganu,TER
+Unknown,UNK
+Wilayah Persekutuan,WIL
+Maldives,MAL
+Mali,MAL
+Malta,MAL
+Marshall Islands,MRI
+Martinique,MAR
+Mauritania,MAU
+Mauritius,MAU
+Mayotte,MAY
+Aguascalientes,AGS
+Baja California,BCN
+Baja California Sur,BCS
+Campeche,CAM
+Chiapas,CHS
+Chihuahua,CHI
+Coahuila,COA
+Colima,COL
+Distrito Federal,DF
+Durango,DGO
+Guanajuato,GTO
+Guerrero,GRO
+Hidalgo,HGO
+Jalisco,JAL
+Mexico,MEX
+Michoacan de Ocampo,MIC
+Morelos,MOR
+Nayarit,NAY
+Nuevo Leon,NLN
+Oaxaca,OAX
+Puebla,PUE
+Queretaro de Arteaga,QRO
+Quintana Roo,QTR
+San Luis Potosi,SLP
+Sinaloa,SIN
+Sonora,SON
+Tabasco,TAB
+Tamaulipas,TAM
+Tlaxcala,TLA
+Veracruz-Llave,VER
+Yucatan,YUC
+Zacatecas,ZAC
+Micronesia,MIC
+Moldova,MOL
+Monaco,MON
+Mongolia,MNG
+Montserrat,MON
+Chaouia-Ouardigha,CHO
+Doukkala-Abda,DOA
+Fes-Boulemane,FEB
+Gharb-Chrarda-Beni Hsen,GCB
+Grand Casablanca,CAS
+Marrakech-Tensift-El Haouz,MTH
+Meknes-Tafilalt,MET
+Rabat-Sale-Zemmour-Zaer,RSZ
+Sous-Massa-Draa,SMD
+Tanger-Tetouan,TAT
+Taza-Al Hoceima-Taounate,THT
+Mozambique,MOZ
+Ayeyarwady,AYE
+Bago,BAG
+Chin,CHI
+Kachin,KAC
+Kayah,KAH
+Kayin,KAN
+Magway,MAG
+Mandalay,MAN
+Mon,MON
+Rakhine,RAK
+Sagaing,SAG
+Shan,SHA
+Tanintharyi,TAN
+Unknown,UNK
+Namibia,NAM
+Nauru,NAU
+Nepal,NEP
+Drenthe,DRE
+Flevoland,FLE
+Friesland,FRI
+Gelderland,GEL
+Groningen,GRO
+Limburg,LIM
+Noord-Brabant,NBR
+Noord-Holland,NHL
+Overijssel,OVE
+Utrecht,UTR
+Zeeland,ZEE
+Zuid-Holland,ZHO
+Netherlands Antilles,NTA
+New Caledonia,NWC
+Chatham Islands,CHI
+North Island,NIS
+South Island,SIS
+Stewart Island,STI
+Atlantico Norte,ATN
+Atlantico Sur,ATS
+Boaco,BOA
+Carazo,CAR
+Chinandega,CHI
+Chontales,CHO
+Esteli,EST
+Granada,GRA
+Jinotega,JIN
+Leon,LEO
+Madriz,MAD
+Managua,MAN
+Masaya,MAS
+Matagalpa,MAT
+Nueva Segovia,NSE
+Rio San Juan,RSJ
+Rivas,RIV
+Agadez,AGA
+Diffa,DIF
+Dosso,DOS
+Maradi,MAR
+Niamey,NIA
+Tahoua,TAH
+Tillaberi,TIL
+Zinder,ZIN
+Abuja,FC
+Adamawa,AD
+Bauchi,BA
+Benue,BE
+Borno,BO
+Delta,DE
+Gombe,GO
+Gongola,UNK
+Jigawa,JI
+Kaduna,KD
+Kano,KN
+Katsina,KT
+Kwara,KW
+Lagos,LA
+Nassarawa,NA
+Niger,NI
+Ogun,OG
+Oyo,OY
+Plateau,PL
+Sokoto,SO
+Unknown,UNK
+Zamfara,ZA
+Niue,NIU
+Norfolk Island,NFI
+Chagang-do,CHA
+Hamgyong-bukto,HYP
+Hamgyong-namdo,HYN
+Hwanghae-bukto,HWP
+Hwanghae-namdo,HWN
+Kaesong-si,KAE
+Kangwon-do,KAN
+Najin Sonbong-si,HAM
+Namp'o-si,NAM
+P'yongan-bukto,PYP
+P'yongan-namdo,PYN
+P'yongyang-si,PYY
+Yanggang-do,YAN
+Akershus,AKE
+Aust-Agder,AAG
+Buskerud,BUS
+Finnmark,FIN
+Hedmark,HED
+Hordaland,HOR
+More og Romsdal,MOR
+Nord-Trondelag,NTR
+Nordland,NOR
+Oppland,OPP
+Oslo,OSL
+Ostfold,OFO
+Rogaland,ROG
+Sogn og Fjordane,SOF
+Sor-Trondelag,STR
+Telemark,TEL
+Troms,TRO
+Vest-Agder,VAG
+Vestfold,VFO
+Oman,OMN
+Balochistan,BAL
+Federally Administered Tribal Areas,TA
+Islamabad Capital Territory,FCA
+North-West Frontier Province,NWF
+Punjab,PUN
+Sind,SIN
+Palau,PAL
+Bocas del Toro,BDT
+Chiriqui,CHI
+Colon,COL
+Darien,DAR
+Herrera,HER
+Kuna Yala,KYA
+Los Santos,LSA
+Panama,PAN
+Veraguas,VER
+Papua New Guinea,PNG
+Alto Paraguay,APG
+Alto Parana,APR
+Amambay,AMA
+Boqueron,BOQ
+Caaguazu,CGZ
+Caazapa,CZP
+Canindeyu,CAN
+Central,CEN
+Concepcion,CON
+Cordillera,COR
+Guaira,GUA
+Itapua,ITA
+Misiones,MIS
+Neembucu,NEE
+Paraguari,PAR
+Presidente Hayes,PHA
+San Pedro,SPE
+Amazonas,AMA
+Ancash,ANC
+Apurimac,APU
+Arequipa,ARE
+Ayacucho,AYA
+Cajamarca,CAJ
+Callao,CAL
+Cusco,CUS
+Huancavelica,HUA
+Huanuco,HUO
+Ica,ICA
+Junin,JUN
+La Libertad,LIB
+Lambayeque,LAM
+Lima,LIM
+Loreto,LOR
+Madre de Dios,MAD
+Moquegua,MOQ
+Pasco,PAS
+Piura,PIU
+Puno,PUN
+San Martin,MAR
+Tacna,TAC
+Tumbes,TUM
+Ucayali,UCA
+Abra,1
+Agusan del Norte,2
+Agusan del Sur,3
+Aklan,4
+Albay,5
+Angeles City,A1
+Antique,6
+Aurora,G8
+Bacolod City,A2
+Bago City,A3
+Baguio City,A4
+Basilan,22
+Bataan,7
+Batanes,8
+Batangas,9
+Batangas City,A7
+Benguet,10
+Bohol,11
+Bukidnon,12
+Bulacan,13
+Butuan City,A8
+Cabanatuan City,A9
+Cadiz City,B1
+Cagayan,14
+Cagayan de Oro City,B2
+Calbayog City,B3
+Caloocan City,B4
+Camarines Norte,15
+Camarines Sur,16
+Camiguin,17
+Canlaon City,B5
+Capiz,18
+Catanduanes,19
+Cavite,20
+Cavite City,B6
+Cebu,21
+Cebu City,B7
+City of Manila,D9
+Cotabato City,B8
+Dagupan City,B9
+Danao City,C1
+Dapitan City,C2
+Davao City,C3
+Davao del Norte,24
+Davao del Sur,25
+Davao Oriental,26
+Dipolog City,C4
+Dumaguete City,C5
+Eastern Samar,23
+General Santos City,C6
+Gingoog City,C7
+Ifugao,27
+Iligan City,C8
+Ilocos Norte,28
+Ilocos Sur,29
+Iloilo,30
+Iloilo City,C9
+Iriga City,D1
+Isabela,31
+Kalinga-Apayao,32
+La Carlota City,D2
+La Union,36
+Laguna,33
+Lanao del Norte,34
+Lanao del Sur,35
+Laoag City,D3
+Lapu-Lapu City,D4
+Legaspi City,D5
+Leyte,37
+Lipa City,D6
+Lucena City,D7
+Maguindanao,56
+Mandaue City,D8
+Marawi City,E1
+Marinduque,38
+Masbate,39
+Mindoro Occidental,40
+Mindoro Oriental,41
+Misamis Occidental,42
+Misamis Oriental,43
+Mountain Province,44
+Naga City,E2
+Negros Occidental,H3
+Negros Oriental,46
+North Cotabato,57
+Northern Samar,67
+Nueva Ecija,47
+Nueva Vizcaya,48
+Olongapo City,E3
+Ormoc City,E4
+Oroquieta City,E5
+Ozamis City,E6
+Pagadian City,E7
+Palawan,49
+Palayan City,E8
+Pampanga,50
+Pangasinan,51
+Pasay City,E9
+Puerto Princesa City,F1
+Quezon,H2
+Quezon City,F2
+Quirino,68
+Rizal,53
+Romblon,54
+Roxas City,F3
+Samar,55
+San Carlos City,F4
+San Pablo City,F7
+Silay City,F8
+Siquijor,69
+Sorsogon,58
+South Cotabato,70
+Southern Leyte,59
+Sultan Kudarat,71
+Sulu,60
+Surigao City,F9
+Surigao del Norte,61
+Surigao del Sur,62
+Tacloban City,G1
+Tagaytay City,G2
+Tagbilaran City,G3
+Tangub City,G4
+Tarlac,63
+Tawi-Tawi,72
+Toledo City,G5
+Trece Martires City,G6
+Zambales,64
+Zamboanga City,G7
+Zamboanga del Norte,65
+Zamboanga del Sur,66
+Pitcairn Islands,PIT
+Dolnoslaskie,DOL
+Kujawsko-Pomorskie,KUJ
+Lodzkie,LOD
+Lubelskie,LUB
+Lubuskie,LBU
+Malopolskie,MAL
+Mazowieckie,MAZ
+Opolskie,OPO
+Podkarpackie,PDK
+Podlaskie,POD
+Pomorskie,POM
+Slaskie,SLA
+Swietokrzyskie,SWI
+Warminsko-Mazurskie,WAR
+Wielkopolskie,WIE
+Zachodniopomorskie,ZAC
+Acores,ACO
+Alentejo,ALE
+Algarve,ALG
+Centro,CEN
+Lisboa,LIS
+Madeira,MAD
+Norte,NOR
+Qatar,QTR
+Reunion,RE
+Alba,ALB
+Arad,ARA
+Arges,ARG
+Bacau,BAC
+Bihor,BIH
+Bistrita-Nasaud,BIS
+Botosani,BOT
+Braila,BRA
+Brasov,BRS
+Buzau,BUZ
+Calarasi,CAL
+Caras-Severin,CAR
+Cluj,CLU
+Constanta,CON
+Covasna,COV
+Dambovita,DAM
+Dolj,DOL
+Galati,GAL
+Giurgiu,GIU
+Gorj,GOR
+Harghita,HAR
+Hunedoara,HUN
+Ialomita,IAL
+Iasi,IAS
+Ilfov,ILF
+Maramures,MAR
+Mehedinti,MEH
+Municipiul Bucuresti,BUC
+Mures,MUR
+Neamt,NEA
+Olt,OLT
+Prahova,PRA
+Salaj,SAL
+Satu Mare,SAT
+Sibiu,SIB
+Suceava,SUC
+Teleorman,TEL
+Timis,TIM
+Tulcea,TUL
+Unknown,UNK
+Valcea,VAL
+Vaslui,VAS
+Vrancea,VRA
+Aginskiy Buryatskiy,2
+Altayskiy Kray,4
+Amurskaya,5
+Arkhangel'skaya,6
+Astrakhanskaya,7
+Belgorodskaya,9
+Bryanskaya,10
+Chechenskaya,CI
+Chelyabinskaya,13
+Chitinskaya,14
+Chukotskiy,15
+Chuvashskaya,16
+Evenkiyskiy,18
+Gorod Moskva,48
+Gorod Sankt-Peterburg,66
+Irkutskaya,20
+Ivanovskaya,21
+Kabardino-Balkarskaya,22
+Kaliningradskaya,23
+Kaluzhskaya,25
+Kamchatskaya,26
+Karachayevo-Cherkesskaya,27
+Kemerovskaya,29
+Khabarovskiy Kray,30
+Khanty-Mansiyskiy,32
+Kirovskaya,33
+Komi-Permyatskiy,35
+Koryakskiy,36
+Kostromskaya,37
+Krasnodarskiy Kray,38
+Krasnoyarskiy Kray,39
+Kurganskaya,40
+Kurskaya,41
+Leningradskaya,42
+Lipetskaya,43
+Magadanskaya,44
+Moskovskaya,47
+Murmanskaya,49
+Nenetskiy,50
+Nizhegorodskaya,51
+Novgorodskaya,52
+Novosibirskaya,53
+Omskaya,54
+Orenburgskaya,55
+Orlovskaya,56
+Penzenskaya,57
+Permskaya,58
+Primorskiy Kray,59
+Pskovskaya,60
+Respublika Adygeya,1
+Respublika Altay,3
+Respublika Bashkortostan,8
+Respublika Buryatiya,11
+Respublika Dagestan,17
+Respublika Kalmykiya,24
+Respublika Kareliya,28
+Respublika Khakasiya,31
+Respublika Komi,34
+Respublika Mariy-El,45
+Respublika Mordoviya,46
+Respublika Sakha (Yakutiya),63
+Respublika Severnaya Osetiya-Alaniya,68
+Respublika Tatarstan,73
+Respublika Tyva,79
+Rostovskaya,61
+Ryazanskaya,62
+Sakhalinskaya,64
+Samarskaya,65
+Saratovskaya,67
+Smolenskaya,69
+Stavropol'skiy Kray,70
+Sverdlovskaya,71
+Tambovskaya,72
+Taymyrskiy (Dolgano-Nenetskiy),74
+Tomskaya,75
+Tul'skaya,76
+Tverskaya,77
+Tyumenskaya,78
+Udmurtskaya,80
+Ul'yanovskaya,81
+Ust'-Ordynskiy Buryatskiy,82
+Vladimirskaya,83
+Volgogradskaya,84
+Vologodskaya,85
+Voronezhskaya,86
+Yamalo-Nenetskiy,87
+Yaroslavskaya,88
+Yevreyskaya,89
+Rwanda,RWA
+Saint Helena,STH
+Saint Kitts & Nevis,SKN
+Saint Lucia,SLC
+Saint Pierre & Miquelon,SPM
+Saint Vincent & the Grenadines,STV
+Samoa,SAM
+San Marino,MAR
+Sao Tome & Principe,SAO
+Al Bahah,BAH
+Al Hudud ash Shamaliyah,HUD
+Al Madinah,MAD
+Al Mintaqah ash Sharqiyah,MAS
+Al Qasim,QAS
+Al-Jawf,JAW
+Ar Riyad,RIY
+Ha'il,HAI
+Jizan,JIZ
+Makkah,MAK
+Tabuk,TAB
+Dakar,DAK
+Saint-Louis,STL
+Thies,THI
+Serbia & Montenegro,SRB
+Seychelles,SEY
+Eastern Province,EAS
+Northern Province,NOR
+Southern Province,SOU
+Western Area,WES
+Singapore,SNG
+Slovakia,SLO
+Slovenia,SLO
+Solomon Islands,SOL
+Bakool,BAK
+Banaadir,BAN
+Bari,BAR
+Bay,BAY
+Gedo,GED
+Jubbada Dhexe,JUD
+Jubbada Hoose,JUH
+Shabeellaha Hoose,SHH
+Eastern Cape,EAS
+Free State,FRE
+Gauteng,GAU
+KwaZulu-Natal,KWA
+Limpopo,LIM
+Mpumalanga,MPU
+North-West,NRW
+Northern Cape,NOR
+Unknown,UNK
+Western Cape,WES
+South Georgia & South Sandwich Islands,SGS
+Ch'ungch'ong-bukto,CHU
+Ch'ungch'ong-namdo,CON
+Cheju-do,CHE
+Cholla-bukto,CHO
+Cholla-namdo,CHN
+Inch'on-gwangyoksi,INC
+Kangwon-do,KAN
+Kwangju-gwangyoksi,KWA
+Kyonggi-do,KYO
+Kyongsang-bukto,KYB
+Kyongsang-namdo,KGM
+Pusan-gwangyoksi,PUS
+Soul-t'ukpyolsi,SOU
+Taegu-gwangyoksi,TAE
+Taejon-gwangyoksi,TAG
+Ulsan-gwangyoksi,ULS
+Andalucia,AND
+Aragon,ARA
+Asturias,AST
+Baleares,BAL
+Canarias,CAN
+Cantabria,CAR
+Castilla y Leon,CLE
+Castilla-La Mancha,CLM
+Cataluna,CAT
+Ceuta y Melilla,CM
+Extremadura,EXT
+Galicia,GAL
+La Rioja,LAR
+Madrid,MAD
+Murcia,MUR
+Navarra,NAV
+Pais Vasco,PAI
+Valencia,VAL
+Sri Lanka,SRI
+Sudan,SUD
+Suriname,SUR
+Svalbard,SVL
+Swaziland,SWZ
+Blekinge lan,BLE
+Dalarnas lan,DAL
+Gavleborgs lan,GAV
+Gotlands lan,GOT
+Hallands lan,HAL
+Jamtlands lan,JAM
+Jonkopings lan,JON
+Kalmar lan,KAL
+Kronobergs lan,KRO
+Norrbottens lan,NOR
+Orebro lan,ORE
+Ostergotlands lan,OST
+Skane lan,SKA
+Sodermanlands lan,SOD
+Stockholms lan,STO
+Uppsala lan,UPP
+Varmlands lan,VAR
+Vasterbottens lan,VAS
+Vasternorrlands lan,VNL
+Vastmanlands lan,VML
+Vastra Gotalands lan,VGI
+Switzerland,SWZ
+Dar`a,DAR
+Dayr az Zawr,DAY
+Dimashq,DIM
+Hamah,HAM
+Hasakah,HAS
+Hims,HIM
+Ladhiqiyah,LAD
+Unknown,UNK
+Kao-hsiung,KAO
+T'ai-pei,TPS
+T'ai-wan,TWS
+Khatlon,KHA
+Mukhtori Kuhistoni Badakhshon,MKB
+Sughd,SUG
+Unknown,UNK
+Kagera,KAG
+Kigoma,KIG
+Kilimanjaro,KIL
+Mwanza,MWA
+Rukwa,RUK
+Shinyanga,SHI
+Tabora,TAB
+Unknown,UNK
+Bangkok Metropolis,BKM
+Central,CEN
+Northeastern,NEA
+Northern,NOR
+Southern,SOU
+Togo,TOG
+Tokelau,TOK
+Tonga,TNG
+Trinidad & Tobago,TRT
+Ariana,ARI
+Mahdia,MAH
+Sousse,SOU
+Tunis,TUN
+Unknown,UNK
+Adana,ADA
+Ankara,ANK
+Antalya,ANT
+Aydin,AYD
+Bilecik,BIL
+Bursa,BUR
+Diyarbakir,DIY
+Erzurum,ERZ
+Hakkari,HAK
+Hatay,HAT
+Icel,ICE
+Isparta,ISP
+Istanbul,IST
+Izmir,IZM
+Karaman,KAM
+Kilis,KIL
+Kocaeli,KOC
+Konya,KON
+Manisa,MAN
+Nigde,NIG
+Sirnak,SIR
+Sivas,SIV
+Yalova,YAL
+Ahal,AHL
+Balkan,BAL
+Dasoguz,DAS
+Lebap,LEB
+Mary,MAR
+Turks & Caicos Islands,TUK
+Tuvalu,TUV
+Uganda,UGA
+Cherkas'ka,CHK
+Chernihivs'ka,CHH
+Chernivets'ka,CHT
+Dnipropetrovs'ka,DNI
+Donets'ka,DON
+Ivano-Frankivs'ka,IVA
+Kharkivs'ka,KHA
+Khersons'ka,KHE
+Khmel'nyts'ka,KHM
+Kirovohrads'ka,KIR
+Kyrm,KRY
+Kyyivs'ka,KYY
+L'vivs'ka,LVI
+Luhans'ka,LUH
+Misto Kyyiv,KYC
+Misto Sevastopol',SEV
+Mykolayivs'ka,MYK
+Odes'ka,ODE
+Poltavs'ka,POL
+Rivnens'ka,RIV
+Sums'ka,SUM
+Ternopil's'ka,TER
+Vinnyts'ka,VIN
+Volyns'ka,VOL
+Zakarpats'ka,ZAK
+Zaporiz'ka,ZAP
+Zhytomyrs'ka,ZHY
+United Arab Emirates,UAE
+England,ENG
+Northern Ireland,NIR
+Scotland,SCO
+Wales,WAL
+Alabama,AL
+Alaska,AK
+American Samoa,AS
+Arizona,AZ
+Arkansas,AR
+California,CA
+Colorado,CO
+Connecticut,CT
+Delaware,DE
+District of Columbia,DC
+Florida,FL
+Georgia,GA
+Guam,GU
+Hawaii,HI
+Idaho,ID
+Illinois,IL
+Indiana,IN
+Iowa,IA
+Kansas,KS
+Kentucky,KY
+Louisiana,LA
+Maine,ME
+Maryland,MD
+Massachusetts,MA
+Michigan,MI
+Minnesota,MN
+Mississippi,MS
+Missouri,MO
+Montana,MT
+Nebraska,NE
+Nevada,NV
+New Hampshire,NH
+New Jersey,NJ
+New Mexico,NM
+New York,NY
+North Carolina,NC
+North Dakota,ND
+Northern Mariana Islands,MP
+Ohio,OH
+Oklahoma,OK
+Oregon,OR
+Pennsylvania,PA
+Puerto Rico,PR
+Rhode Island,RI
+South Carolina,SC
+South Dakota,SD
+Tennessee,TN
+Texas,TX
+Utah,UT
+Vermont,VT
+Virgin Islands,VI
+Virginia,VA
+Washington,WA
+West Virginia,WV
+Wisconsin,WI
+Wyoming,WY
+Artigas,ART
+Canelones,CAN
+Cerro Largo,CER
+Colonia,COL
+Durazno,DUR
+Florida_,FLO
+Lavalleja,LAV
+Maldonado,MAL
+Montevideo,MON
+Paysandu,PAY
+Rio Negro,RNE
+Rivera,RIV
+Rocha,ROC
+Salto,SAL
+San Jose,SJO
+Soriano,SOR
+Tacuarembo,TAC
+Treinta y Tres,TYT
+Andijon,AND
+Buxoro,BUX
+Jizzax,JIZ
+Namangan,NAM
+Navoiy,NAV
+Qashqadaryo,QAS
+Qoraqalpog`iston,QOR
+Samarqand,SAM
+Sirdaryo,SIR
+Surxondaryo,SUR
+Toshkent,TOS
+Toshkent Shahri,TSH
+Unknown,UNK
+Xorazm,XOR
+Vanuatu,VAN
+Vatican City,VTC
+Amazonas,AMA
+Anzoategui,ANZ
+Apure,APU
+Aragua,ARA
+Barinas,BAR
+Bolivar,BOL
+Carabobo,CAR
+Falcon,FAL
+Guarico,GUA
+Lara,LAR
+Merida,MER
+Miranda,MIR
+Monagas,MON
+Nueva Esparta,NES
+Sucre,SUC
+Tachira,TAC
+Trujillo,TRU
+Vargas,VAR
+Yaracuy,YAR
+Zulia,ZUL
+An Giang,ANG
+Ba Ria-Vung Tau,BRV
+Bac Giang,GIN
+Bac Kan,KAN
+Bac Lieu,LIU
+Bac Ninh,NIH
+Ben Tre,BEN
+Binh Dinh,BDI
+Binh Duong,DUO
+Binh Phuoc,BPC
+Binh Thuan,BTH
+Ca Mau,CAM
+Can Tho,CAN
+Cao Bang,CAO
+Da Nang,DAN
+Dac Lak,DAC
+Dong Nai,DNA
+Dong Thap,DON
+Gia Lai,GIA
+Ha Giang,HAG
+Ha Nam,HAM
+Ha Tay,HAT
+Ha Tinh,HAN
+Hai Duong,HDG
+Hoa Binh,HOA
+Hung Yen,HUY
+Khanh Hoa,KHH
+Kien Giang,KIE
+Kon Tum,KON
+Lai Chau,LAI
+Lam Dong,LAM
+Lang Son,LAN
+Lao Cai,LAC
+Long An,LON
+Nam Dinh,NAN
+Nghe An,NGH
+Ninh Binh,NBI
+Ninh Thuan,NIT
+Phu Tho,PTO
+Phu Yen,PHU
+Quang Binh,QBI
+Quang Nam,QNM
+Quang Ngai,QNG
+Quang Ninh,NIN
+Quang Tri,QTR
+Soc Trang,SOC
+Son La,SOL
+Tay Ninh,TAY
+Thai Binh,THB
+Thai Nguyen,TNY
+Thanh Hoa,THH
+Thanh Pho Hai Phong,PHP
+Thanh Pho Ho Chi Minh,PHC
+Thu Do Ha Noi,TDH
+Thua Thien-Hue,TTH
+Tien Giang,TGI
+Tra Vinh,TRA
+Tuyen Quang,TUY
+Vinh Long,VIL
+Vinh Phuc,VPC
+Yen Bai,YEN
+Wallis & Futuna,WAF
+Yemen,YEM
+Central,CEN
+Eastern,EAS
+Lusaka,LUS
+Southern,SOU
+Unknown,UNK
+Western,WES
+Harare,HAR
+Manicaland,MNL
+Mashonaland East,MSE
+Mashonaland West,MSW
+Masvingo,MVG
+Matabeleland North,MBN
+Matabeleland South,MBS
+Midlands,MID
+Unknown,UNK
