@@ -1,25 +1,30 @@
+import { SecondStreetThirdPartyAuth, LogoutData, LoginStrategy } from '../../interface';
+import { ApiBasedLoginData } from '../../docs/api-based-interface';
+
 /**
  * Here is an example TypeScript implementation of the interface. If you
  * have any questions about the code below, feel free to reach out.
+ * This implementation assumes an API-based workflow.
  */
 declare global {
   interface Window {
     MyLoginSystem: any;
-    SecondStreetThirdPartyAuth?: SecondStreetThirdPartyAuth;
+    SecondStreetThirdPartyAuth?: SecondStreetThirdPartyAuth<LoginStrategy.MyLoginUI>;
   }
 }
 
-class TypeScriptExample implements SecondStreetThirdPartyAuth {
+class TypeScriptExample implements SecondStreetThirdPartyAuth<LoginStrategy.MyLoginUI> {
   public readonly id = 2;
+  public readonly loginStrategy = 1;
 
-  public isLoggedIn(): LoginData | null {
+  public isLoggedIn(): ApiBasedLoginData | null {
     return window.MyLoginSystem.isLoggedIn ? this.loginData : null;
   }
   public requestLogin(): boolean {
     window.MyLoginSystem.showLoginModal();
     return window.MyLoginSystem.isLoginModalVisible;
   }
-  public addLoginHandler(fn: (data: LoginData) => void): void {
+  public addLoginHandler(fn: (data: ApiBasedLoginData) => void): void {
     if (this.loginHandlers.includes(fn)) { return; }
     this.loginHandlers.push(fn);
   }
@@ -46,11 +51,11 @@ class TypeScriptExample implements SecondStreetThirdPartyAuth {
     window.MyLoginSystem.on('loginModalAborted', callLoginCanceledHandlers);
   }
 
-  private loginHandlers: Array<(LoginData) => void> = [];
+  private loginHandlers: Array<(ApiBasedLoginData) => void> = [];
   private logoutHandlers: Array<(LogoutData) => void> = [];
   private loginCanceledHandlers: Array<(LogoutData) => void> = [];
 
-  private get loginData(): LoginData {
+  private get loginData(): ApiBasedLoginData {
     return {
       thirdPartyId: this.id,
       uuid: window.MyLoginSystem.currentUser.uuid

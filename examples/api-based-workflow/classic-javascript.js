@@ -1,9 +1,11 @@
 /**
  * Here is an example Classic JavaScript implementation of the interface.
  * If you have any questions about the code below, feel free to reach out.
+ * This implementation assumes an API-based workflow.
  */
 function ClassicJavaScriptExample() {
   this.id = 2;
+  this.loginStrategy = 1;
 
   this._loginHandlers = [];
   this._logoutHandlers = [];
