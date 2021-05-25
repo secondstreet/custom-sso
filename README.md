@@ -16,7 +16,7 @@ If after speaking with Second Street they recommend the Client-Side Workflow, it
 
 1. Write some JavaScript on your website that exposes a global object implementing [the `SecondStreetThirdPartyAuth` interface](https://github.com/secondstreet/custom-sso/blob/master/interface.ts) so Second Street's embed script can integrate with it.
 
-2. Coordinate with Second Street they can integrate with custom user data you plan to expose in JavaScript.
+2. Coordinate with Second Street so they can integrate with custom user data you plan to expose in JavaScript.
 
 3. Enhance the JavaScript you wrote in Step 1 to pass `ClientSideLoginData` where `LoginData` is required.
 
