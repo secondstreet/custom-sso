@@ -34,11 +34,17 @@ One choice you will have to make during the implementation is which login strate
 
  To illustrate what it might look like to write your JavaScript integration, Second Street has provided an example implementation. It is written to integrate with an imaginary existing login system, implemented as `window.MyLoginSystem`. This is purely illustrative, as `window.MyLoginSystem` does not exist. As you are implementing your own integration, replace it with similar functionality that exists in your own login system.
 
-Example implementations:
+Example implementations for API-Based:
 
- - [TypeScript](https://github.com/secondstreet/custom-sso/blob/master/examples/typescript.ts)
- - [Modern JavaScript](https://github.com/secondstreet/custom-sso/blob/master/examples/es6-plus.js)
- - [Classic JavaScript](https://github.com/secondstreet/custom-sso/blob/master/examples/classic-javascript.js)
+ - [TypeScript](https://github.com/secondstreet/custom-sso/blob/master/examples/api-based-workflow/typescript.ts)
+ - [Modern JavaScript](https://github.com/secondstreet/custom-sso/blob/master/examples/api-based-workflow/es6-plus.js)
+ - [Classic JavaScript](https://github.com/secondstreet/custom-sso/blob/master/examples/api-based-workflow/classic-javascript.js)
+
+Example implementations for Client-Side:
+
+ - [TypeScript](https://github.com/secondstreet/custom-sso/blob/master/examples/client-side-workflow/typescript.ts)
+ - [Modern JavaScript](https://github.com/secondstreet/custom-sso/blob/master/examples/client-side-workflow/es6-plus.js)
+ - [Classic JavaScript](https://github.com/secondstreet/custom-sso/blob/master/examples/client-side-workflow/classic-javascript.js)
 
 # Exposing or Writing the API endpoint (API-Based Workflows)
 
