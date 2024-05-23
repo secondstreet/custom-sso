@@ -3,22 +3,20 @@
 If you would like for your embedded contests, interactive content, and promotions to use your website's existing login system rather than using Second Street's, you can implement a small amount of JavaScript and work with us to integrate with your login system's API to create a seamless Single Sign-On experience.
 
 ## API-Based Workflow
-If after speaking with Second Street they recommend the API-Based Workflow, it can be done in three easy steps:
+The API-Based Workflow requires development from the customer's dev team and Second Street's dev team to implement, so both teams will need to coordinate. If this is the preferred method, please keep in mind this must be evaluated by Second Street's Services team for scope and scheduled. There are three main steps to accomplish this:
 
-1. Write some JavaScript on your website that exposes a global object implementing [the `SecondStreetThirdPartyAuth` interface](https://github.com/secondstreet/custom-sso/blob/master/interface.ts) so Second Street's embed script can integrate with it.
+1. Write some JavaScript on your website that exposes a global object implementing [the `SecondStreetThirdPartyAuth` interface](https://github.com/secondstreet/custom-sso/blob/master/interface.ts) so Second Street's embed script can integrate with it. This is self-serve and the customer dev team will implement this own their own.
 
-2. Expose or write an API endpoint that allows Second Street to authenticate and confirm user logins.
+2. Expose or write an API endpoint that allows Second Street to authenticate and confirm user logins. This endpoint will expose a minimum of user email address, but may include other data points.
 
-3. Coordinate with Second Street so Second Street can call that API endpoint and provide a seamless SSO experience.
+3. You'll need to coordinate with Second Street to inform us how to write our server-side integration. Second Street will make authenticated network requests to your API over HTTPS. You may already have an API endpoint that does this, or you may have to write a new one.
 
 ## Client-Side Workflow
-If after speaking with Second Street they recommend the Client-Side Workflow, it can be done in three easy steps:
+The Client-Side Workflow requires development from the customer's dev team only, so no coordination with Second Street is needed. This option is self-serve and can be implemented at any time. There are two main steps to accomplish this:
 
-1. Write some JavaScript on your website that exposes a global object implementing [the `SecondStreetThirdPartyAuth` interface](https://github.com/secondstreet/custom-sso/blob/master/interface.ts) so Second Street's embed script can integrate with it.
+1. Write some JavaScript on your website that exposes a global object implementing [the `SecondStreetThirdPartyAuth` interface](https://github.com/secondstreet/custom-sso/blob/master/interface.ts) so Second Street's embed script can integrate with it. This is self-serve and the customer dev team will implement this own their own.
 
-2. Coordinate with Second Street they can integrate with custom user data you plan to expose in JavaScript.
-
-3. Enhance the JavaScript you wrote in Step 1 to pass `ClientSideLoginData` where `LoginData` is required.
+2. Enhance the JavaScript you wrote in Step 1 to pass `ClientSideLoginData` where `LoginData` is required.
 
 
 # Writing the JavaScript
@@ -45,7 +43,3 @@ Example implementations for Client-Side:
  - [TypeScript](https://github.com/secondstreet/custom-sso/blob/master/examples/client-side-workflow/typescript.ts)
  - [Modern JavaScript](https://github.com/secondstreet/custom-sso/blob/master/examples/client-side-workflow/es6-plus.js)
  - [Classic JavaScript](https://github.com/secondstreet/custom-sso/blob/master/examples/client-side-workflow/classic-javascript.js)
-
-# Exposing or Writing the API endpoint (API-Based Workflows)
-
-In addition to this implementation in your JavaScript, you'll need to coordinate with SecondStreet to inform us how to write our server-side integration. Second Street will make authenticated network requests to your API over HTTPS. You may already have an API endpoint that does this, or you may have to write a new one.
