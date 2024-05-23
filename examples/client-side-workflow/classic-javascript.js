@@ -4,7 +4,7 @@
  * This implementation assumes a client side workflow.
  */
 function ClassicJavaScriptExample() {
-  this.id = 2;
+  this.id = 4;
   this.loginStrategy = 1;
 
   this._loginHandlers = [];
