@@ -14,7 +14,7 @@ declare global {
 }
 
 class TypeScriptExample implements SecondStreetThirdPartyAuth<LoginStrategy.MyLoginUI> {
-  public readonly id = 2;
+  public readonly id = 4;
   public readonly loginStrategy = 1;
 
   public isLoggedIn(): ClientSideLoginData | null {
