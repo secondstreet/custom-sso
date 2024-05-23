@@ -2,6 +2,14 @@
 
 If you would like for your embedded contests, interactive content, and promotions to use your website's existing login system rather than using Second Street's, you can implement a small amount of JavaScript and work with us to integrate with your login system's API to create a seamless Single Sign-On experience.
 
+## Client-Side Workflow
+The Client-Side Workflow requires development from the customer's dev team only, so no coordination with Second Street is needed. This option is self-serve and can be implemented at any time. There are two main steps to accomplish this:
+
+1. Write some JavaScript on your website that exposes a global object implementing [the `SecondStreetThirdPartyAuth` interface](https://github.com/secondstreet/custom-sso/blob/master/interface.ts) so Second Street's embed script can integrate with it. This is self-serve and the customer dev team will implement this own their own.
+
+2. Enhance the JavaScript you wrote in Step 1 to pass `ClientSideLoginData` where `LoginData` is required.
+  
+  
 ## API-Based Workflow
 The API-Based Workflow requires development from the customer's dev team and Second Street's dev team to implement, so both teams will need to coordinate. If this is the preferred method, please keep in mind this must be evaluated by Second Street's Services team for scope and be scheduled. There are three main steps to accomplish this:
 
@@ -10,13 +18,6 @@ The API-Based Workflow requires development from the customer's dev team and Sec
 2. Expose or write an API endpoint that allows Second Street to authenticate and confirm user logins. This endpoint will expose a minimum of user email address, but may include other data points.
 
 3. You'll need to coordinate with Second Street to inform us how to write our server-side integration. Second Street will make authenticated network requests to your API over HTTPS. You may already have an API endpoint that does this, or you may have to write a new one.
-
-## Client-Side Workflow
-The Client-Side Workflow requires development from the customer's dev team only, so no coordination with Second Street is needed. This option is self-serve and can be implemented at any time. There are two main steps to accomplish this:
-
-1. Write some JavaScript on your website that exposes a global object implementing [the `SecondStreetThirdPartyAuth` interface](https://github.com/secondstreet/custom-sso/blob/master/interface.ts) so Second Street's embed script can integrate with it. This is self-serve and the customer dev team will implement this own their own.
-
-2. Enhance the JavaScript you wrote in Step 1 to pass `ClientSideLoginData` where `LoginData` is required.
 
 
 # Writing the JavaScript
