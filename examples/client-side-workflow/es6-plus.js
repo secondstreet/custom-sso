@@ -4,7 +4,7 @@
  * This implementation assumes a client side workflow.
  */
 class ES6PlusExample {
-  id = 4;
+  id = X;
   loginStrategy = 1;
 
   isLoggedIn() {
