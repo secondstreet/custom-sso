@@ -5,7 +5,7 @@ If you would like for your embedded contests, interactive content, and promotion
 ## Client-Side Workflow
 The Client-Side Workflow requires development from the customer's dev team only, so no coordination with Second Street is needed. This option is self-serve and can be implemented at any time. There are two main steps to accomplish this:
 
-1. Write some JavaScript on your website that exposes a global object implementing [the `SecondStreetThirdPartyAuth` interface](https://github.com/secondstreet/custom-sso/blob/master/interface.ts) so Second Street's embed script can integrate with it. This is self-serve and the customer dev team will implement this own their own. The this.id property for Second Street Client-Side SSO = 4.
+1. Write some JavaScript on your website that exposes a global object implementing [the `SecondStreetThirdPartyAuth` interface](https://github.com/secondstreet/custom-sso/blob/master/interface.ts) so Second Street's embed script can integrate with it. This is self-serve and the customer dev team will implement this own their own.
 
 2. Enhance the JavaScript you wrote in Step 1 to pass `ClientSideLoginData` where `LoginData` is required.
   
